@@ -1,0 +1,8 @@
+com/MessengerClient/Login/PasswordReader.class
+com/MessengerClient/Login/AfterSuccessfullLogin.class
+com/MessengerClient/Login/Login.class
+com/MessengerClient/Login/LoginSignupScreen.class
+com/MessengerClient/Login/ChangePassword.class
+com/MessengerClient/Login/SignUp.class
+com/MessengerClient/Login/UpdateProfile.class
+com/MessengerClient/Login/Logout.class

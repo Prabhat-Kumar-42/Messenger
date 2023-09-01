@@ -1,0 +1,9 @@
+com/MessengerServer/DataTransferUnit/GrpMngList.class
+com/MessengerServer/DataTransferUnit/GroupProfile.class
+com/MessengerServer/DataTransferUnit/UserList.class
+com/MessengerServer/DataTransferUnit/GrpMngReturnList.class
+com/MessengerServer/DataTransferUnit/GetNotiReturn.class
+com/MessengerServer/DataTransferUnit/ClientProfile.class
+com/MessengerServer/DataTransferUnit/Message.class
+com/MessengerServer/DataTransferUnit/DataTransferPacket.class
+com/MessengerServer/DataTransferUnit/ChangeChatReturn.class
